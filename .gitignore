@@ -8,3 +8,11 @@ visualization/.ipynb_checkpoints/visualization-checkpoint.ipynb
 stat_case_study/.ipynb_checkpoints/ДЗ8 Кейс-стади-checkpoint.ipynb
 statistics_basics/.ipynb_checkpoints/stat_basics-checkpoint.ipynb
 .DS_Store
+stat_case_study/.ipynb_checkpoints*
+stat_case_study/.ipynb_checkpoints*
+python_basics/.ipynb_checkpoints*
+datatypes_cycles_1/.ipynb_checkpoints*
+datatypes_cycles_2/.ipynb_checkpoints*
+visualization/.ipynb_checkpoints*
+stat_case_study/.ipynb_checkpoints*
+statistics_basics/.ipynb_checkpoints*
